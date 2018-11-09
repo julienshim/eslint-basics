@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "babel-eslint": "^10.0.1",
     "react": "^16.6.1",
     "react-dom": "^16.6.1"
   },
