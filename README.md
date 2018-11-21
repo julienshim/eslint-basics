@@ -1,4 +1,6 @@
-# ESLint Basic Configuration
+# ESLint Basics
+
+Personal ESLint Configuration
 
 ### Global Dependencies (for terminal use)
 
