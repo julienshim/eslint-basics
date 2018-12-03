@@ -30,7 +30,7 @@ Personal ESLint Configuration
 {
   "editor.formatOnSave": true,
   "[javascript]": {
-      "eidtor.formatOneSave": false
+      "editor.formatOnSave": false
   },
   "eslint.autoFixOnSave": true,
   "eslint.alwaysShowStatus": true,
